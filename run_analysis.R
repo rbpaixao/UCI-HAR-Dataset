@@ -73,8 +73,3 @@ write.table(FinalData, "FinalData.txt", row.name=FALSE)
 
 
 
-
-
-
-
-
